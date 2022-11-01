@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question_text"> Тут Был Вердихрюк</string>
+    <string name="true_btn"> True</string>
+    <string name="false_btn">False</string>
+    <string name="correct_toast">Ответ правельный</string>
+    <string name="wrong_toast">Ответ НЕ верный</string>
+</resources>
